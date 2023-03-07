@@ -1,0 +1,2 @@
+copiar conteudo da pasta static para src/main/resources/static
+copiar pasta palavra e arquivo home.html para src/main/resources/templates
